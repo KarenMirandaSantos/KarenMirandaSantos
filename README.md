@@ -58,14 +58,7 @@ Atualmente, venho aprimorando minhas habilidades em programação, suporte técn
 
 ---
 
-#
 
-## 📊 GitHub Stats
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KarenMirandaSantos&show_icons=true&theme=tokyonight"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMirandaSantos&layout=compact&theme=tokyonight"/> </div>
-
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
